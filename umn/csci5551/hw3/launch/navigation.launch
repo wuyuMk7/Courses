@@ -1,0 +1,3 @@
+<launch>
+  <node name="hw3_navigation" pkg="he000242_hw3" type="navigation.py" output="screen"></node>
+</launch>
